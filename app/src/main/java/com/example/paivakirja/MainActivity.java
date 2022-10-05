@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //testi commit
+        //git --set-upstream ilari
     }
 }
